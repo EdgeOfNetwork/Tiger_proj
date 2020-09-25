@@ -3,7 +3,7 @@
 
 ## To generate own my tiger.
 
-## TODO : 
+TODO : 
 1. Using VAE or GAN
 2. Using animal-faces images 
 (https://www.kaggle.com/andrewmvd/animal-faces)
