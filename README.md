@@ -1,7 +1,7 @@
 # Tiger_proj
 
 
-## To generate own my tiger.
+### To generate own my tiger.
 
 
 TODO : 
@@ -13,7 +13,3 @@ TODO :
 DETAIL :
 1. reading GAN paper and practice in python code. (MNIST)
 (https://arxiv.org/abs/1406.2661)
-
-
-
-
