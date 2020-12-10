@@ -11,5 +11,11 @@ TODO :
 3. make more plan and ACTION.
 
 DETAIL :
-1. reading GAN paper and practice in python code. (MNIST)
-(https://arxiv.org/abs/1406.2661)
+1. reading GAN paper and practice in python code. (MNIST series)
+
+GAN _ (https://arxiv.org/abs/1406.2661)
+
+cGAN _ ( )
+
+DcGAN _ ( ) 
+
